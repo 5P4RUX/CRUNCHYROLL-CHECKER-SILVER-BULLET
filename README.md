@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Crunchyroll%20Checker%20V7&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Script%20by%20SPARUX-666&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Crunchyroll%20Checker&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Script%20by%20SPARUX-666&descAlignY=51&descAlign=62" width="100%"/>
 </p>
 
 <p align="center">
