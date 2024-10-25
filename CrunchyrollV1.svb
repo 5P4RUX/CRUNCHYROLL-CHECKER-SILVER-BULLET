@@ -4,7 +4,7 @@
   "SuggestedBots": 1,
   "MaxCPM": 0,
   "LastModified": "2024-07-27T12:05:28.9152646+05:30",
-  "AdditionalInfo": "@SPARUX-666",
+  "AdditionalInfo": "@5P4RUX",
   "RequiredPlugins": [],
   "Author": "@Sillverbullet",
   "Version": "1.1.2 [SB]",
@@ -40,7 +40,7 @@
   "CustomUserAgent": "",
   "RandomUA": false,
   "CustomCMDArgs": "",
-  "Title": "Cnfig by @SPARUX-666",
+  "Title": "Config by @5P4RUX",
   "IconPath": "Icon\\svbfile.ico",
   "LicenseSource": null,
   "Message": null,
@@ -158,5 +158,5 @@ REQUEST GET "https://www.crunchyroll.com/subs/v1/subscriptions/<external_id>"
 
 #Is_Active PARSE "<SOURCE>" LR "is_active\":" ",\"" -> VAR "Is Active" 
 
-#SPARUX-666 FUNCTION Constant "@SPARUX-666" -> CAP "Config By" 
+#SPARUX-666 FUNCTION Constant "@5P4RUX" -> CAP "Config By" 
 
