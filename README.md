@@ -16,6 +16,8 @@
 </br>
 
 > This Python script allows you to check Crunchyroll accounts for various details.
+* Note: Uses working APIs,New API update has been made. Replaced V1 login API with V2.
+
 
 <br>
 <h4 align="center">DISCLAIMER > </h4><br>
