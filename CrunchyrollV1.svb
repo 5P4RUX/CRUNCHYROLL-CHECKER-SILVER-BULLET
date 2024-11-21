@@ -64,7 +64,7 @@
 [SCRIPT]
 #guid FUNCTION GenerateGUID -> VAR "guid" 
 
-REQUEST POST "https://www.crunchyroll.com/auth/v1/token" 
+REQUEST POST "https://www.crunchyroll.com/auth/v2/token" 
   CONTENT "username=<USER>&password=<PASS>&grant_type=password&scope=offline_access&device_id=<guid>&device_name=SM-G988N&device_type=samsung%20SM-G965N" 
   CONTENTTYPE "application/x-www-form-urlencoded" 
   HEADER "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" 
